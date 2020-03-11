@@ -6,6 +6,9 @@ This code contains several main functions, and supporting functions for use with
 Main functions: 
 
 NT_GetROI() - extracts time-varying calcium imaging data from pre-defined ROIs.
+
 AT_Correlate() - correlates one set of traces with another set, outputs the cross-correlograms.
+
 VectorSum() - returns the vector sum angle or direction selective index from input tuning curves.
+
 AT_AngularStats() - returns angular statistical information about the input traces. 
